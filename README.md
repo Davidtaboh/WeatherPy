@@ -10,7 +10,7 @@ Several linear regressions and visualizations were made to showcase the resultin
 
 * Juypter Notebook
 
-## Getting Started
+### Getting Started
 
 * Download the Python file 
 * Rune the file in Jupyter Notebook
@@ -21,7 +21,7 @@ After downloading the script, one should be able to simply run it in Juypter not
 
 Please note that the VacationPy code is incomplete.
 
-## License
+### License
 
 This project is licensed under the MIT License
 
